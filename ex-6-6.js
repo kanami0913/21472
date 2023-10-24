@@ -1,4 +1,4 @@
-function saygoodbye61(){alert('Goodbye.');}
+function saygoodbye1(){alert('Goodbye.');}
 var who66='world';
 function taro065(){alert('Hello,'+who65+'!');}
 function taro065(){who65='太郎';}
