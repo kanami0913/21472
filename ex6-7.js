@@ -3,5 +3,5 @@ function sayhello67() {
   alert('Hello,' + who67 + '!')
 }
 function someone(x) {
-  who67 = X; 
+  who67 = x; 
 }
