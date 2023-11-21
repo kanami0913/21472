@@ -5,6 +5,6 @@ function imgchange3(){
 
 function imgchange4(){
   document.getElementById('logo').src =
-    './image/josai.png';
+    './image/ジョー君.jpg';
 }
 
