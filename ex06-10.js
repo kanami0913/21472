@@ -1,9 +1,9 @@
 function imgcange1(){
-  document.getElementById('rogo').src =
+  document.getElementById('kuma').src =
     './imge/ジョー君.jpg';
 }
 
 function imgcange2(){
-  document.getElementById('rogo').src =
-    './imge/josai.png';
+  document.getElementById('kuma').src =
+    './imge/bear.jpg';
 }
