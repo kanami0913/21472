@@ -1,6 +1,6 @@
 function imgcange1(){
   document.getElementById('kuma').src =
-    './imge/ジョー君.jpg';
+    './imge/bear.jpg';
 }
 
 function imgcange2(){
