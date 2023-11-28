@@ -1,9 +1,9 @@
-function imgcange1(){
+function imgchange1(){
   document.getElementById('kuma').src =
     './imge/bear.jpg';
 }
 
-function imgcange2(){
+function imgchange2(){
   document.getElementById('kuma').src =
     './imge/bear.jpg';
 }
