@@ -5,5 +5,5 @@ function imgchange1(){
 
 function imgchange2(){
   document.getElementById('kuma').src =
-    './imge/bear.jpg';
+    './imge/kuma.png';
 }
