@@ -1,6 +1,5 @@
-function keisan(){ //keisanという関数を実行
-  var a, b,d;
-  a = document.getElementById("shincho").value;
-  b	= document.getElementById("taijuu").value; 
-  c = b/( (a/100)*(a/100) ); //BMIの計算結果をcに代入
-　alert('あなたのBMIは' + c + 'です' );}
+function BMI() {
+var height = Number(document.getElementById('height').value) / 100; // 身長をメートルに変換
+var weight = Number(document.getElementById('weight').value);
+var bmi = weight / (height * height); // BMIの計算
+alert('あなたのBMIは ' + bmi + ' です。');}
