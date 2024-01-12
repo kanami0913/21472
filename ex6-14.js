@@ -1,2 +1,6 @@
-function inuhenkou1(){ document.getElementById('inuhenkou').src='./image/bear.jpg';}
-function inuhenkou2(){ document.getElementById('inuhenkou').src='./image/kuma.png';}
+function page() {
+    document.getElementById('fuyu').src = './image/kuma.png';
+}
+function page2() {
+    document.getElementById('fuyu').src = './image/bear.jpg';
+}
